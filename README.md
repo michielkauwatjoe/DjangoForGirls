@@ -2,4 +2,4 @@
 
 Based on:
 
-* https://tutorial.djangogirls.org/en/
+* [Django for Girls](https://tutorial.djangogirls.org/en/)
